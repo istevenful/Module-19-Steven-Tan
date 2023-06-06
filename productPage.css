@@ -218,11 +218,14 @@
       section{
         background-size: auto;
       }
+      h1{
+        font-size: 36px;
+      }
       h2{
         font-size:24px;
       }
       .product-information p{
-        font-size:18px;
+        font-size:20px;
       }
   }
   
@@ -265,7 +268,11 @@
       section{
         background-size: auto;
       }
-
+      
+      h1{
+        margin-left:5%;
+        font-size: 36px;
+      }
     footer {
       width: 100%;
       padding-right:7.5%;
