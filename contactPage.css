@@ -80,7 +80,7 @@ p a:hover {
     color: #0645ad;
 }
 
-section {
+.main-body {
     display: flex;
     flex-direction: row;
     margin-top: 50px;
@@ -215,7 +215,7 @@ footer ul li a:hover {
         margin-right: 2.5%;
     }
 
-    section {
+    .main-body {
         background-size: auto;
     }
 
@@ -251,7 +251,7 @@ footer ul li a:hover {
         font-weight: 400;
     }
 
-    section {
+    .main-body {
         flex-direction: column;
         background-size: auto;
     }

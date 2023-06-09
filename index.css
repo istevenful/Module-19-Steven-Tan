@@ -54,7 +54,7 @@ header nav ul li a:hover {
   color: #D98555;
 }
 
-section {
+.main-body {
   display: flex;
   flex-direction:row;
   min-height: 65vh;
@@ -217,7 +217,7 @@ footer ul li a:hover {
   header nav ul {
     gap: 2rem;
   }
-  section{
+  .main-body{
     background-size: 100% 300px;
   }
   .card {
@@ -268,7 +268,7 @@ footer ul li a:hover {
     font-size: 24px;
     font-weight: 400;
   }
-  section {
+  .main-body {
     display: flex;
     flex-direction: column;
     min-height: 65vh;

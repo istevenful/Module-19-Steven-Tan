@@ -77,7 +77,7 @@
   p a:hover {
     color: #0645ad;
   }
-  section{
+  .main-body{
     display: flex;
     flex-direction:column;
     margin-top: 50px;
@@ -215,7 +215,7 @@
         ;
         gap: 10px;
       }
-      section{
+      .main-body{
         background-size: auto;
       }
       h1{
@@ -265,7 +265,7 @@
         ;
         gap: 10px;
       }
-      section{
+      .main-body{
         background-size: auto;
       }
       
